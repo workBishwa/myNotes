@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "smartIndentList": true,
+  "showIndentGuide": true,
+  "propertiesInDocument": "hidden"
+}

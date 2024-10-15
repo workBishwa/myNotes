@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Projects/Int_Studies/USA/USA.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a36004a6a0ab89ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cfde0d33373f82f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74822a7ec5f0921b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6649572cb20e89db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5854081da0817cf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44f6dac1fcbfd6f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4843a594d84e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3302660fba63a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Projects/Int_Studies/USA/USA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84af086dd42cbf5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal Projects/Int_Studies/USA/USA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ea3af06c553026f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca24f20ed07e041f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal Projects/Int_Studies/USA/USA.md"
+              }
+            }
+          },
+          {
+            "id": "364e8807f1e534d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "README.md",
+    "Personal Projects/Int_Studies/USA/USA.md",
+    "Dashboard++.md",
+    "Personal Projects/Int_Studies/USA/Baylor University.md",
+    "Welcome.md",
+    "Work/Projects/IT Cybersecurity training.md",
+    "Work/Projects/Firewall upgrades.md",
+    "Work/Projects/Cloud backup.md",
+    "Work/Personnel/Sally Smith.md",
+    "Work/Personnel/Olga Olson.md",
+    "Work/Personnel/Brad Jefferson.md",
+    "Work/Personnel/Bill Hansen.md",
+    "Work/Budget/Q4 2022.md",
+    "Work/Budget/Q2 2022.md",
+    "Work/Budget/Q3 2022.md",
+    "Work/Budget/Q1 2022.md",
+    "Work/Projects",
+    "Work/Personnel",
+    "Work/Budget",
+    "Work",
+    "Research/What is Spaced Repetition and How to use it.md",
+    "Research",
+    "Personal Projects/Writing/5 ways to love PKM more.md",
+    "Personal Projects/Writing",
+    "Personal Projects/Untitled",
+    "Personal Projects/Remodeling/Research building Garage.md",
+    "Personal Projects/Remodeling/Project X Definition and Specifications.md",
+    "Personal Projects/Remodeling/Paint entryway.md",
+    "Personal Projects/Remodeling/Bathroom Remodel.md",
+    "Personal Projects/Learning/Spanish - Entry Level.md",
+    "Personal Projects/Learning/Early American History.md",
+    "Personal Projects/Int_Studies/USA",
+    "Personal Projects/Remodeling",
+    "Personal Projects/Learning",
+    "images/YouTubeFromSergio.png",
+    "images/Spicy popcorn.jpeg",
+    "images/Smores.jpeg",
+    "images/Kitchen.jpeg",
+    "images/home.jpg",
+    "Family/Vacations/Texas.md",
+    "Family/Vacations/Peru.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}
