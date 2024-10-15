@@ -1,9 +1,8 @@
 [
-  "obsidian-banners",
-  "obsidian-hover-editor",
-  "obsidian-emoji-toolbar",
-  "homepage",
   "dataview",
+  "obsidian-banners",
+  "obsidian-emoji-toolbar",
   "obsidian-git",
-  "reveal-active-file-button"
+  "homepage",
+  "obsidian-hover-editor"
 ]
