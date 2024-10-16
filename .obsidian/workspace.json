@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4f8961390ec47e23",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "d3ea283591fbc7be",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4104a45158cb83d4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard++.md",
+                "file": "Personal Projects/Int_Studies/USA/Montana State University.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard++.md",
+                "file": "Personal Projects/Int_Studies/USA/Montana State University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard++.md",
+                "file": "Personal Projects/Int_Studies/USA/Montana State University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard++.md"
+                "file": "Personal Projects/Int_Studies/USA/Montana State University.md"
               }
             }
+          },
+          {
+            "id": "2917796617e5e986",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +156,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4104a45158cb83d4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Family/Objectives/Education Plan.md",
-    "Dashboard++.md"
+    "Personal Projects/Int_Studies/USA/01_USA.md",
+    "Personal Projects/Int_Studies/USA/Montana State University.md",
+    "Personal Projects/Int_Studies/USA/University of Michigan.md",
+    "Personal Projects/Int_Studies/USA/Baylor University.md",
+    "Dashboard++.md",
+    "Personal Projects/Learning/Early American History.md",
+    "Family/Objectives/Education Plan.md"
   ]
 }

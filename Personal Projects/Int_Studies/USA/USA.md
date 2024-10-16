@@ -1,2 +1,0 @@
-- 📚 Universities
-		-  [[Baylor University]]

@@ -1,0 +1,4 @@
+- 📚 Universities
+		-  [[Baylor University]]
+		- [[University of Michigan]]
+		- [[Montana State University ]]

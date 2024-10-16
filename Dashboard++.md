@@ -27,7 +27,7 @@ banner_y: 0
 
  # Personal Projects
 - Int_Studies
-	- [[USA]]
+	- [[01_USA]]
 
 - 🏡 Remodeling Projects
 	- [[Bathroom Remodel]]
