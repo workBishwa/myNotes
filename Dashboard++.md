@@ -29,8 +29,8 @@ banner_y: 0
 - Int_Studies
 	- [[01_USA]]
 
-- 🏡 Remodeling Projects
-	- [[Bathroom Remodel]]
+- 🏡 Career Jobs
+	- [[UN JOBS]]
 	- [[Paint entryway]]
 	- [[Research building Garage]] 
  - ✍️ Writing Projects
@@ -56,6 +56,11 @@ banner_y: 0
 	- [[Brad Jefferson]]
 	- [[Olga Olson]]
 
+
+# Python
+
+- Basic of Python
+	- [[main python]]
 # Vault Info
 - 🗄️ Recent file updates
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
@@ -64,3 +69,5 @@ banner_y: 0
 - 〽️ Stats
 	-  File Count: `$=dv.pages().length`
 	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
+
+

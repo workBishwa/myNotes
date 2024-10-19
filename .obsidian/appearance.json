@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
-  ]
+  ],
+  "nativeMenus": false
 }
